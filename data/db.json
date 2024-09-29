@@ -1,0 +1,37 @@
+{
+    "ContactDetails": [
+      {
+        "id": "fe4b",
+        "cname": "ram",
+        "cemail": "ram@gmail.com",
+        "cno": "9283283"
+      }
+    ],
+    "userCredentials": [
+      {
+        "username": "john@gmail.com",
+        "password": "john@123",
+        "id": "3da8"
+      },
+      {
+        "username": "pete@gmail.com",
+        "password": "pete@123",
+        "id": "988d"
+      },
+      {
+        "username": "henry@gmail.com",
+        "password": "henry@123",
+        "id": "228e"
+      },
+      {
+        "username": "hari@gmail.com",
+        "password": "hari@123",
+        "id": "849d"
+      },
+      {
+        "username": "johana@gmail.com",
+        "password": "johana@123",
+        "id": "2f92"
+      }
+    ]
+  }
